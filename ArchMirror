@@ -1,0 +1,7 @@
+##
+## Arch Linux repository mirrorlist
+## Generated on 2022-04-28
+##
+
+##Cuba
+Server = http://repos.uo.edu.cu/archlinux/$repo/os/$arch
